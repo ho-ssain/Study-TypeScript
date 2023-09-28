@@ -20,9 +20,9 @@
 6. Arrays and Iteration
 7. Generics
 
-==> [Basic TypeScript Concepts]s
+==============> [Basic TypeScript Concepts] ===============>
 
-(1)=> Types and Variables
+(1)=>...................Types and Variables
 
 - ### Data Types
 
@@ -40,14 +40,14 @@
 
 - ### Type inference
 
-(2)=> Interfaces and Type Aliases
+(2)=> .................Interfaces and Type Aliases
 
-(3)=> Functions
+(3)=> .................Functions
 
-(4)=> Classes
+(4)=> .................Classes
 
-(5)=> Modules
+(5)=> .................Modules
 
-(6)=> Arrays and Iteration
+(6)=> .................Arrays and Iteration
 
-(7)=> Generics
+(7)=> .................Generics
