@@ -13,29 +13,41 @@
    - [Constants](#constants)
    - [Type inference](#type-inference)
 
-2. Interfaces and Type Aliases
-3. Functions
-4. Classes
-5. Modules
-6. Arrays and Iteration
-7. Generics
+2. [Interfaces and Type Aliases](#interfaces-and-type-aliases)
+3. [Functions](#functions)
+4. [Classes](#classes)
+5. [Modules](#modules)
+6. [Arrays and Iteration](#arrays-and-iteration)
+7. [Generics](#generics)
 
 ### [Basic TypeScript Concepts]
 
 1. ### Types and Variables
 
-   - #### Data Types
+- #### Data Types
 
-   - #### Type Annotations
+- #### Type Annotations
 
-   - #### Variable Declaration
+- #### Variable Declaration
 
-   - #### Identifiers and keywords
+- #### Identifiers and keywords
 
-   - #### Variable Scope
+- #### Variable Scope
 
-   - #### var let and const
+- #### var let and const
 
-   - #### Constants
+- #### Constants
 
-   - #### Type inference
+- #### Type inference
+
+1. ### Interfaces and Type Aliases
+
+2. ### Functions
+
+3. ### Classes
+
+4. ### Modules
+
+5. ### Arrays and Iteration
+
+6. ### Generics
