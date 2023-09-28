@@ -2,6 +2,6 @@
 
 ## Basic TypeScript Concepts
 
-1. [Types and Variables](#Data Types)
+1. [Types and Variables](#data-types)
 
 ### Data Types
