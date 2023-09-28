@@ -1,1 +1,0 @@
-// In TypeScript, "inference" refers to the process by which TypeScript automatically determines or deduces the data type of a value or variable based on its usage and context in the code, without the need for explicit type annotations. TypeScript uses inference to statically analyze your code and assign types to variables and expressions during the compilation process.
