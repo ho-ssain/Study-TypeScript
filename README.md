@@ -1,3 +1,7 @@
-# TypeScript
+# ![TypeScript](./img/ts.png) TypeScript
 
-![TypeScript](./img/ts.png)
+## Basic TypeScript Concepts
+
+1. [Types and Variables](###Data Types)
+
+### Data Types
