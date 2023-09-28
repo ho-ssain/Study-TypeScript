@@ -20,22 +20,22 @@
 6. Arrays and Iteration
 7. Generics
 
-### Basic TypeScript Concepts
+### [Basic TypeScript Concepts]
 
 1. ### Types and Variables
 
-- #### Data Types
+   - #### Data Types
 
-- #### Type Annotations
+   - #### Type Annotations
 
-- #### Variable Declaration
+   - #### Variable Declaration
 
-- #### Identifiers and keywords
+   - #### Identifiers and keywords
 
-- #### Variable Scope
+   - #### Variable Scope
 
-- #### var let and const
+   - #### var let and const
 
-- #### Constants
+   - #### Constants
 
-- #### Type inference
+   - #### Type inference
